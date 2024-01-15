@@ -7,8 +7,8 @@ Along with basic authentication, it supports:
 - [x] Single sign-on
 
 
-[You can find the API documentation here.](https://github.com/sudoshreyansh/mfa-microservice/blob/main/Documentation.md)<br />
-To view an example SSO server, developed using this microservice: [Check this repo!](https://github.com/sudoshreyansh/mfa-sso-server)
+[You can find the API documentation here.](https://github.com/Amanp16/mfa-microservices/blob/main/Documentation.md)<br />
+To view an example SSO server, developed using this microservice: [Check this repo!](https://github.com/Amanp16/mfa-server)
 
 ## Installation
 
